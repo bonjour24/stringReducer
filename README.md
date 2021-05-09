@@ -1,19 +1,21 @@
-Algorithm Used:
-    -Algorithm used is 'Run Length Encoding'
-    -In this algo, the string is scanned for consecutive duplicates such   that if more than one repition of a character is observed, it is replaced by its frequency and thus reducing the total length of the string.
+# Invictus Assignment #
 
-Components of the code
-    -Components are loaded through main App.js file
-    -Components made:
-        -StringReducer: used to perform the encoding for given input
-        -Decoder: used to perform decoding for given input
+## Algorithm Used:##
+    -Algorithm used is 'Run Length Encoding'  
+    -In this algo, the string is scanned for consecutive duplicates such     that if more than one repition of a character is observed, it is   replaced by its frequency and thus reducing the total length of the   string.  
+
+## Components of the code:##
+    -Components are loaded through main App.js file  
+    -Components made:  
+        -StringReducer: used to perform the encoding for given input  
+        -Decoder: used to perform decoding for given input  
     -Utility functions are exported from util.js file
 
-Libraries used
-    -No third party library is used to perform any functionality
-    -The application is made using react.js, Node.js and database is not used, as suggested
+## Libraries used: ##
+    -No third party library is used to perform any functionality  
+    -The application is made using react.js, Node.js and database is not  used, as suggested
 
-Test Cases and Images:
+## Test Cases and Images:##
     Data:heyy
 ![Screenshot (117)](https://user-images.githubusercontent.com/51700725/117580356-382f8500-b115-11eb-9d57-d88000f875ca.png)
     Data:hey3
