@@ -2,6 +2,22 @@
   text-align: center;
 }
 
+.main h1 {
+  margin-top: 30px;
+  color: rgb(116, 116, 255);
+  font-size: bolder;
+}
+.main {
+  margin-top: 60px;
+  min-height: 400px;
+  border-radius: 12px;
+  border: 0.2px solid white;
+  box-shadow: 8px 8px 8px rgb(139, 139, 139);
+  background-color: white;
+}
+.select{
+  padding-left: 12px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
